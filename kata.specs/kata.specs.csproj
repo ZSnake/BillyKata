@@ -52,7 +52,10 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="when_adding_an_empty_string.cs" />
     <Compile Include="when_adding_a_number_five.cs" />
+    <Compile Include="when_adding_newlines_between_numbers.cs" />
     <Compile Include="when_adding_number_one.cs" />
+    <Compile Include="when_adding_one_three_five_four.cs" />
+    <Compile Include="when_adding_two_numbers_one_and_two.cs" />
     <Compile Include="when_running_a_test.cs" />
   </ItemGroup>
   <ItemGroup>
