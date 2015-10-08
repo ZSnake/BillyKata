@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kata", "kata\kata.csproj", "{259B3652-2DBD-4DE0-86FE-A537164ADA61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kata.specs", "kata.specs\kata.specs.csproj", "{BFA59C1F-85C5-4532-A873-CAA6BF50044F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5E213215-A213-4042-942D-BD3B48CB5311}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{259B3652-2DBD-4DE0-86FE-A537164ADA61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{259B3652-2DBD-4DE0-86FE-A537164ADA61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{259B3652-2DBD-4DE0-86FE-A537164ADA61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{259B3652-2DBD-4DE0-86FE-A537164ADA61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA59C1F-85C5-4532-A873-CAA6BF50044F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA59C1F-85C5-4532-A873-CAA6BF50044F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA59C1F-85C5-4532-A873-CAA6BF50044F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA59C1F-85C5-4532-A873-CAA6BF50044F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
