@@ -4,7 +4,7 @@ namespace kata
     {
         public int Add(string number)
         {
-            return 100;
+            return 0;
         }
     }
 }
